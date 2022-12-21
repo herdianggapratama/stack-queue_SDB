@@ -1,2 +1,4 @@
-# stack-queue_SDB
- Struktur Data B - Stack & Queue
+# Struktur Data B
+
+Nama : Herdiangga Pratama
+NIM : H071211043
