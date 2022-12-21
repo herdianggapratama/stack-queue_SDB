@@ -5,7 +5,7 @@ NIM : H071211043 <br />
 
 # Stack & Queue
 
-<details><summary>Stack</summary>
+<details><summary><h2>Stack</h2></summary>
 <p>
 Stack Merupakan kumpulan data yang terurut sesuai bagaimana data tersebut ditambahkan atau dihapus.
 
@@ -21,7 +21,7 @@ Agar lebih mengerti dapat dilihat penerapannya pada bahasa python di file [stack
 </p>
 </details>
 
-<details><summary><h1>Queue</h1></summary>
+<details><summary><h2>Queue</h2></summary>
 <p>
 Queue merupakan Kumpulan Data yang Teurut.
 
