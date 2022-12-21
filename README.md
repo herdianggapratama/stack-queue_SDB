@@ -21,7 +21,7 @@ Agar lebih mengerti dapat dilihat penerapannya pada bahasa python di file [stack
 </p>
 </details>
 
-<details><summary>Queue</summary>
+<details><summary><h1>Queue</h1></summary>
 <p>
 Queue merupakan Kumpulan Data yang Teurut.
 
