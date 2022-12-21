@@ -16,9 +16,7 @@ Stack mempunyai dua operasi dasar yaitu push dan pop.
 -   push artinya memasukkan elemen ke dalam tumpukan.
 -   pop artinya mengeluarkan elemen teratas dari tumpukan.
 
-```
-
-```
+Agar lebih mengerti dapat dilihat di codingannya di file stack.py
 
 </p>
 </details>
