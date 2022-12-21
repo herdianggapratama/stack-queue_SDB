@@ -20,3 +20,19 @@ Agar lebih mengerti dapat dilihat penerapannya pada bahasa python di file [stack
 
 </p>
 </details>
+
+<details><summary>Queue</summary>
+<p>
+Queue merupakan Kumpulan Data yang Teurut.
+
+Queue dalam pengurutan data menggunakan Metode FIFO (First in ,First Out).
+
+Queue mempunyai Dua Operasi Dasar yaitu Enqueue dan Dequeue.
+
+-   Enqueue berarti Penambahan sebuah Data/Elemen
+-   Dequeue berarti Penghapusan sebuah Data/Elemen
+
+Agar lebih mengerti dapat dilihat penerapannya pada bahasa python di file [queue.py](https://github.com/herdianggapratama/stack-queue_SDB/blob/main/queue.py).
+
+</p>
+</details>
